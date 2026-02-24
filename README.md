@@ -16,7 +16,7 @@ This project develops a standardized framework for surgical gestures that minimi
 
 ## Research Methodology
 
-This repository documents a multi-phase consensus process conducted with 75+ surgical experts:
+This repository documents a multi-phase consensus process:
 
 1. **Definition Collection & Curation** - Aggregated 270 gesture terms from 75 peer-reviewed studies; filled missing definitions using LLM prompting
 2. **Definition Normalization** - Standardized definitions into clear, narrative descriptions
