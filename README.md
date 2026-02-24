@@ -234,12 +234,12 @@ linkage = "ward"  # or other linkage methods for dendrograms
 ## Citation
 ```bash
 @inproceedings{
-    nasriddinov2025generatingsurgicalfeedback,
+    TODO,
     title={ADD FINAL PAPER TITLE HERE}, 
-    author={Morais MC et al.},
+    author={AUTHOR LIST},
     year={2026},
-    booktitle={2026 SAGES NBT Innovation Weekens},
-    url={PAPER_URL}, 
+    booktitle={ADD JOURNAL},
+    url={PAPER URL}, 
 }
 ```
 ## License
