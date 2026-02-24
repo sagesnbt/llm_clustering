@@ -1,6 +1,6 @@
 # Surgical Gesture Consensus Framework
 
-Code repository supporting the development of a standardized surgical gesture taxonomy through LLM-powered clustering and multi-phase community consensus validation. This project was conducted as part of the 2026 SAGES NBT Innovation Weekend – AI steering committee.
+Code repository supporting the development of a standardized surgical gesture taxonomy through LLM-powered clustering and multi-phase community consensus validation. This project was conducted as part of the 2026 SAGES NBT Innovation Weekend by the AI steering committee.
 
 ## Overview
 
