@@ -231,15 +231,17 @@ linkage = "ward"  # or other linkage methods for dendrograms
 - All random states set to 42 for algorithm reproducibility
 - LLM outputs may vary slightly due to model updates
 
-## Contributing
-
-This repository documents the consensus process as of February 2026. Future development will focus on:
-- Temporal boundary definitions for surgical gestures
-- Support for hierarchical action triplets/quadruplets
-- OR technology standardization
-
-Contributions should maintain the consensus-based framework and include expert validation studies.
-
+## Citation
+```bash
+@inproceedings{
+    nasriddinov2025generatingsurgicalfeedback,
+    title={ADD FINAL PAPER TITLE HERE}, 
+    author={Morais MC et al.},
+    year={2026},
+    booktitle={2026 SAGES NBT Innovation Weekens},
+    url={PAPER_URL}, 
+}
+```
 ## License
 
 This research was conducted as part of the 2026 SAGES NBT Innovation Weekend proceedings. Please cite appropriately if using this taxonomy in your research.
